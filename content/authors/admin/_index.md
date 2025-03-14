@@ -9,8 +9,6 @@ name_pronunciation: ''
 first_name: Sebastian
 last_name: Siuda
 
-
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -18,21 +16,21 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Psychologist (M.Sc.)
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+# organizations:
+#  - name: OpenAI
+#    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hi@sebastiansiuda.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/mr_sebastian_supertramp/
   - icon: brands/github
