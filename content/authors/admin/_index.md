@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sebastian Siuda
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sebastian
+last_name: Siuda
 
 # Status emoji
 status:
@@ -36,11 +36,11 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/mr_sebastian_supertramp/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sebastian-siuda/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
