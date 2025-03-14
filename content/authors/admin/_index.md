@@ -33,8 +33,6 @@ profiles:
   #  url: https://twitter.com/GetResearchDev
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sebastian-siuda/
-  - icon: custom/xing
-    url: https://www.xing.com/profile/Sebastian_Siuda
   - icon: brands/instagram
     url: https://www.instagram.com/mr_sebastian_supertramp/
   #- icon: brands/github
