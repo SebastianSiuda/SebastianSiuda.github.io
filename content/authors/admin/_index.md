@@ -31,16 +31,18 @@ profiles:
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/mr_sebastian_supertramp/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sebastian-siuda/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: custom/xing
+    url: https://www.xing.com/profile/Sebastian_Siuda
+  - icon: brands/instagram
+    url: https://www.instagram.com/mr_sebastian_supertramp/
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
