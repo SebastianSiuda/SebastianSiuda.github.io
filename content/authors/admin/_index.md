@@ -182,4 +182,4 @@ awards:
 
 Hi, I am a psychologist doing research on the dynamics of interpersonal trust. I try to investigate under which conditions people trust, how they assess other people’s trustworthiness and (so far unsuccessfully) how I can become very rich from all this research.
 
-Apart from my research at the University of Cologne, I offer talks and lecture services in the field of social and experimental psychology. If you are interested in getting in contact with me, feel free to use the contact form below.
+Beyond research, I teach a range of courses in social and experimental psychology. If you're looking for a speaker or lecturer, feel free to reach out.
