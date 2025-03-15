@@ -27,7 +27,7 @@ sections:
         # The gradient angle from 0-360 degrees
         gradient_angle: 180
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
-        text_color_light: true
+        text_color_light: false
         
         #color: black
         
