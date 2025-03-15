@@ -22,7 +22,7 @@ sections:
       css_class: dark
       background:
         # Choose colors such as from https://html-color-codes.info
-        gradient_start: '#E6E6E6'
+        gradient_start: '#FAFAFA'
         gradient_end: '#FFFFFF'
         # The gradient angle from 0-360 degrees
         gradient_angle: 180
