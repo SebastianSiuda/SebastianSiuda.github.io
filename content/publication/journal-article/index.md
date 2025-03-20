@@ -63,6 +63,6 @@ slides: example
 ---
 
 {{% callout note %}}
-Visit the online article or download the PDF using the links above.
+Visit the online article or download the PDF using the links [**here**](https://rips-irsp.com/articles/10.5334/irsp.623).
 {{% /callout %}}
 
