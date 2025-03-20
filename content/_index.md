@@ -19,7 +19,7 @@ sections:
       #  text: Download CV
       #  url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         # Choose colors such as from https://html-color-codes.info
         gradient_start: '#000000'
