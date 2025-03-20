@@ -1,6 +1,6 @@
 ---
 title: Entscheidungspsychologie
-summary: Von der Prospect Theory bis zum Status-quo-Bias: Psychologische Modelle praktisch anwenden und smarter entscheiden.
+summary: Von der Prospect Theory bis zum Status-quo-Bias - Psychologische Modelle praktisch anwenden und smarter entscheiden.
 date: 2025-02-28
 type: docs
 math: false
