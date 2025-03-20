@@ -69,3 +69,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+{{% callout note %}}
+Visit the online article or download the PDF using the links above.
+{{% /callout %}}
