@@ -6,7 +6,7 @@ image:
 
 ---
 
-## Coaching
+# Coaching
 
 Ob im Berufsleben oder im privaten Umfeld. Immer wieder stehen wir vor Fragen, bei denen ein klarer Blick von außen helfen kann. Vielleicht möchten Sie Ihre Führungskompetenzen weiterentwickeln, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder auch persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an – lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
         
@@ -17,4 +17,3 @@ Mein Coaching-Angebot richtet sich sowohl an Fach- und Führungskräfte als auch
 In einem geschützten und strukturierten Rahmen biete ich Ihnen die Möglichkeit, neue Perspektiven einzunehmen, Denk- und Handlungsmuster zu reflektieren und konkrete nächste Schritte zu erarbeiten. Dabei profitieren Sie von einer Verbindung aus psychologischer Fachkenntnis, Praxiserfahrung und einem klaren, lösungsorientierten Blick.
 
 Gerne bespreche ich in einem unverbindlichen Vorgespräch, wie ich Sie oder Ihr Unternehmen unterstützen kann. Ich freue mich, Sie kennenzulernen.
-
