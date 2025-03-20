@@ -69,7 +69,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.Sc. in Psychology, 2017
+  - area: B.Sc. in Psychology, 2014
     institution: University of Würzburg
     date_start: 2010-10-01
     date_end: 2014-03-31
