@@ -3,8 +3,8 @@ title: "Essays on Interpersonal Trust and Trustworthiness Detection"
 authors:
 - admin
 
-date: "2021-12-01T00:00:00Z"
-doi: ""
+date: '2021-12-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-01T00:00:00Z"

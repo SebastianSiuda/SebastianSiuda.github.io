@@ -5,8 +5,8 @@ authors:
 - Thomas Schlösser
 - Detlef Fetchenhauer
 
-date: "2022-11-14T00:00:00Z"
-doi: ""
+date: '2022-11-14T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-14T00:00:00Z"
