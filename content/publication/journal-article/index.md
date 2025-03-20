@@ -2,12 +2,11 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Thomas Schlösser
+- Detlef Fetchenhauer
+
+date: "2022-11-14T00:00:00Z"
+doi: "10.5334/irsp.623"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,34 +17,34 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*International Review of Social Psychology*"
+publication_short: "IRSP"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Judgments about people’s trustworthiness are made frequently and have important real-life consequences. However, the accuracy of these judgments is debated. We therefore systematically reviewed the current evidence for accurate trustworthiness detection in the literature. The overall evidence for accuracy is rather mixed; although we find only limited evidence for accurate trustworthiness detection from neutral photographs, trustworthiness detection becomes more accurate when the rater and target interact, when the target presentation resembles face-to-face contact, and when the target presentations contain cues or signals about the target’s trustworthiness. We also find that the current literature lacks an overarching research agenda, which leads to a large heterogeneity in the extant studies’ operationalizations. We address some of these operationalizations and suggest the following guidelines for future research: Studies should engage in stronger theory building, experimentally test moderators, strengthen generalizability by recruiting large target pools, and use appropriate methods for the analysis of nonindependent data.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Judgments about people’s trustworthiness are made frequently and have important real-life consequences. However, the accuracy of these judgments is debated. We therefore systematically reviewed the current evidence for accurate trustworthiness detection in the literature.
 
 tags:
-- Source Themes
+- Sebastian Siuda
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://rips-irsp.com/articles/623/files/submission/proof/623-1-5072-1-10-20221114.pdf
+url_code: 'https://rips-irsp.com/articles/10.5334/irsp.623'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://rips-irsp.com/articles/10.5334/irsp.623'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Pixabay**](https://pixabay.com/illustrations/face-detection-scan-to-scan-4760281/)'
   focal_point: ""
   preview_only: false
 
@@ -65,11 +64,6 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Visit the online article or download the PDF using the links above.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
