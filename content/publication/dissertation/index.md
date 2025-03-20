@@ -25,7 +25,7 @@ summary: My dissertation focused on three topics related to trust. Do people tru
 
 tags:
 - Sebastian Siuda
-featured: false
+featured: true
 
 # links:
 # - name: ""

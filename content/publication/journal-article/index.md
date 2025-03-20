@@ -27,7 +27,7 @@ summary: Judgments about people’s trustworthiness are made frequently and have
 
 tags:
 - Sebastian Siuda
-featured: false
+featured: true
 
 # links:
 # - name: ""
