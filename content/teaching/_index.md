@@ -14,7 +14,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: IIn addition to research, I offer courses in social, personality, and decision psychology. My goal is to make psychological theories **understandable, applicable, and – ideally – enjoyable**. All courses are designed and taught by me and can be **tailored to universities or organizations**. If you'd like to add a psychology course to your program, feel free to reach out. *(Course descriptions are provided in German, but all courses can also be taught in English upon request.)*
+      text: In addition to research, I offer courses in social, personality, and decision psychology. My goal is to make psychological theories **understandable, applicable, and – ideally – enjoyable**. All courses are designed and taught by me and can be **tailored to universities or organizations**. If you'd like to add a psychology course to your program, feel free to reach out. *(Course descriptions are provided in German but can of course also be taught in English.)*
       filters:
         folders:
           - teaching
