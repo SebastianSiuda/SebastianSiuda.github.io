@@ -6,7 +6,7 @@ authors:
 - Detlef Fetchenhauer
 
 date: "2022-11-14T00:00:00Z"
-#doi: "10.5334/irsp.623"
+doi: "10.5334/irsp.623"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-14T00:00:00Z"
@@ -31,13 +31,13 @@ featured: false
 
 # links:
 # - name: ""
-# url: "https://rips-irsp.com/articles/10.5334/irsp.623"
+url: "https://rips-irsp.com/articles/10.5334/irsp.623"
 url_pdf: https://rips-irsp.com/articles/623/files/submission/proof/623-1-5072-1-10-20221114.pdf
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://rips-irsp.com/articles/10.5334/irsp.623'
+#url_source: 'https://rips-irsp.com/articles/10.5334/irsp.623'
 url_video: ''
 
 # Featured image
