@@ -22,10 +22,10 @@ sections:
       css_class: light
       background:
         # Choose colors such as from https://html-color-codes.info
-        gradient_start: '#000000'
-        gradient_end: '#2E2E2E'
+        # gradient_start: '#000000'
+        # gradient_end: '#2E2E2E'
         # The gradient angle from 0-360 degrees
-        gradient_angle: 180
+        # gradient_angle: 180
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
         #text_color_light: false
         
