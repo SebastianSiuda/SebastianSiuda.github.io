@@ -25,5 +25,6 @@ Der Kurs eignet sich sowohl als Bestandteil von Hochschulcurricula (z. B. für W
 
 
 {{% callout note %}}
-**Bringen Sie psychologisches Know-how in Ihre Organisation** – für reflektierte Persönlichkeiten, starke Teams und nachhaltigen Erfolg. Kontaktieren Sie uns gerne für ein individuelles Kursangebot.
+**Bringen Sie psychologisches Know-how in Ihre Organisation** – für reflektierte Persönlichkeiten, starke Teams und nachhaltigen Erfolg. 
+Kontaktieren Sie mich gerne für ein individuelles Kursangebot.
 {{% /callout %}}
