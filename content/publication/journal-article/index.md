@@ -6,7 +6,7 @@ authors:
 - Detlef Fetchenhauer
 
 date: "2022-11-14T00:00:00Z"
-#doi: "10.5334/irsp.623"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-14T00:00:00Z"
