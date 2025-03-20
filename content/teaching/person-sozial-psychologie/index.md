@@ -1,6 +1,6 @@
 ---
 title: Persönlichkeits- und Sozialpsychologie
-summary: Die Persönlichkeits- und Sozialpsychologie untersucht, wie psychologische und soziale Prozesse das menschliche Verhalten und Erleben beeinflussen.
+summary: Stärken erkennen, Zusammenarbeit fördern, soziale Prozesse steuern – fundiertes Wissen für nachhaltigen Erfolg.
 date: 2025-02-28
 type: docs
 math: false
