@@ -7,12 +7,12 @@ date: '2021-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-01T00:00:00Z"
+publishDate: '2021-12-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Dissertation"]
+publication_types: ['dissertation']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Universität zu Köln*"
@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Test'
   focal_point: ""
   preview_only: false
 
