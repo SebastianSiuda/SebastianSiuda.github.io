@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Do We Know Whom to Trust? A Review on Trustworthiness Detection Accuracy"
 authors:
 - admin
 - Thomas Schlösser
@@ -33,7 +33,6 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://rips-irsp.com/articles/623/files/submission/proof/623-1-5072-1-10-20221114.pdf
-url_code: 'https://rips-irsp.com/articles/10.5334/irsp.623'
 url_dataset: ''
 url_poster: ''
 url_project: ''
