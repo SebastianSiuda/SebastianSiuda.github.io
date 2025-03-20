@@ -31,13 +31,13 @@ featured: false
 
 # links:
 # - name: ""
-# - url: "https://rips-irsp.com/articles/10.5334/irsp.623"
+# - url: ""
 url_pdf: https://rips-irsp.com/articles/623/files/submission/proof/623-1-5072-1-10-20221114.pdf
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://rips-irsp.com/articles/10.5334/irsp.623'
+url_source: ''
 url_video: ''
 
 # Featured image
@@ -63,6 +63,6 @@ slides: example
 ---
 
 {{% callout note %}}
-Visit the online article or download the PDF using the links [**here**](https://rips-irsp.com/articles/10.5334/irsp.623).
+Visit the online article or download the PDF [**here**](https://rips-irsp.com/articles/10.5334/irsp.623).
 {{% /callout %}}
 

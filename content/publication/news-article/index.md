@@ -44,8 +44,8 @@ featured: true
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-url_source: 'https://www.discovermagazine.com/mind/what-makes-a-person-trustworthy-science-may-provide-some-clues'
-#url_video: 'https://youtube.com'
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -71,5 +71,5 @@ slides: example
 ---
 
 {{% callout note %}}
-Visit the online article or download the PDF using the links above.
+Visit the online article or download the PDF [**here**](https://www.discovermagazine.com/mind/what-makes-a-person-trustworthy-science-may-provide-some-clues).
 {{% /callout %}}
