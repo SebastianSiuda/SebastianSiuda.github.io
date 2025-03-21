@@ -10,8 +10,8 @@ show_date: false
 
 <style>
   body {
-    font-size: 1rem;
-    line-height: 1.6;
+    font-size: 0.5rem;
+    line-height: 1.2;
   }
 </style>
 
