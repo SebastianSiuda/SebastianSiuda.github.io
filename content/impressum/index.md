@@ -2,18 +2,8 @@
 title: "Impressum"
 date: 2025-03-21
 type: page
-summary: ""
-show_page_heading: false
-show_breadcrumb: false
-show_date: false
-show_reading_time: false
-show_author: false
-hide_title: true
-hide_summary: true
-hide_taxonomies: true
-hide_readingtime: true
-hide_date: true
-hide_author: true
+header:
+  show: false
 ---
 
 # Impressum
