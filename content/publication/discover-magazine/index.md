@@ -50,7 +50,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: U__Photo/Shutterstock'
+  caption: 'Image credit: [**U__Photo/Shutterstock**](https://www.shutterstock.com/de/image-photo/teamwork-couple-hiking-help-each-other-250176199)'
   focal_point: ''
   preview_only: false
 
