@@ -4,8 +4,8 @@
 type: page
 reading_time: false
 show_date: false
-#header:
-#  show: false
+design:
+  css_style: 'font-size: 1rem; line-height: 1.6;'
 ---
 
 
