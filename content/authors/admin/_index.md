@@ -182,4 +182,6 @@ awards:
 
 Hi, I am a psychologist doing research on the dynamics of interpersonal trust. I try to investigate under which conditions people trust, how they assess other people’s trustworthiness and (so far unsuccessfully) how I can become very rich from all this research.
 
-Beyond research, I teach a range of courses in social and experimental psychology. If you're looking for a speaker or lecturer, feel free to reach out.
+Beyond research, I teach a range of courses in social and experimental psychology, and offer coaching for individuals and organizations looking to develop leadership skills, improve team dynamics, or navigate personal challenges.
+
+If you’re interested in collaborations, lectures, or coaching, feel free to reach out.
