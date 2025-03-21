@@ -1,11 +1,15 @@
 ---
-title: "Coaching"
+#title: "Coaching"
 date: 2025-03-21
 type: page
 reading_time: false
+show_date: false
 header:
   show: false
 ---
+
+# Coaching
+
 
 Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situationen, in denen ein neutraler Blick von außen hilfreich sein kann. Vielleicht möchten Sie Ihre Führungskompetenzen stärken, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an: lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
 
