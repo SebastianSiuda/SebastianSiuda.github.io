@@ -5,7 +5,7 @@ type: page
 reading_time: false
 show_date: false
 design:
-  css_style: 'font-size: 1rem; line-height: 1.6;'
+  css_style: 'font-size: 3rem; line-height: 2.6;'
 ---
 
 
