@@ -1,4 +1,12 @@
 ---
+title: "# Coaching"
+date: 2025-03-21
+type: page
+header:
+  show: false
+---
+
+---
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
@@ -6,7 +14,7 @@ image:
 
 ---
 
-# Coaching
+# Coaching Überschrift
 
 Ob im Berufsleben oder im privaten Umfeld. Immer wieder stehen wir vor Fragen, bei denen ein klarer Blick von außen helfen kann. Vielleicht möchten Sie Ihre Führungskompetenzen weiterentwickeln, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder auch persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an – lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
         
