@@ -25,7 +25,7 @@ Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situat
 
 ---
 
-## Wann ist Coaching sinnvoll?
+<h2 style="text-align: center;">Wann ist Coaching sinnvoll?</h2>
 
 Coaching bietet die Möglichkeit, berufliche und persönliche Herausforderungen strukturiert zu reflektieren und gezielt anzugehen.  
 Typische Coaching-Anliegen sind...
@@ -41,7 +41,7 @@ Gemeinsam entwickeln wir individuelle Lösungen – fundiert, klar und praxisnah
 
 ---
 
-## Mein Ansatz
+<h2 style="text-align: center;">Mein Ansatz</h2>
 
 Als promovierter Sozialpsychologe (Dr. rer. pol.) und mit der Heilpraktikererlaubnis für das Gebiet der Psychotherapie gemäß Heilpraktikergesetz (HeilprG) begleite ich Sie mit wissenschaftlich fundierter Expertise. Mein Schwerpunkt liegt im systemischen Coaching, das den Menschen stets im Kontext seines sozialen Umfelds betrachtet.
 
@@ -53,7 +53,7 @@ In einem geschützten und strukturierten Rahmen biete ich Ihnen die Möglichkeit
 
 ---
 
-## Kontaktaufnahme
+<h2 style="text-align: center;">Kontaktaufnahme</h2>
 
 Gerne bespreche ich in einem unverbindlichen Vorgespräch, wie ich Sie oder Ihr Unternehmen unterstützen kann. Ich freue mich, Sie kennenzulernen.
 
