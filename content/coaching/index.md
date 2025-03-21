@@ -1,11 +1,11 @@
 ---
 #title: "Coaching"
-date: 2025-03-21
+#date: 2025-03-21
 type: page
 reading_time: false
 show_date: false
-header:
-  show: false
+#header:
+#  show: false
 ---
 
 # Coaching
