@@ -1,12 +1,10 @@
 ---
-#title: "Datenschutzerklärung"
-#date: 2025-03-21
+title: "Datenschutzerklärung"
+date: 2025-03-21
 type: page
 header:
   show: false
 ---
-
-# Datenschutzerklärung
 
 ## 1. Datenschutz auf einen Blick
 
