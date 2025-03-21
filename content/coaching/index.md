@@ -4,12 +4,7 @@
 type: page
 reading_time: false
 show_date: false
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['0', '0', '20px', '0']
 ---
-
 
 <h1 style="text-align: center;">Coaching</h1>
 
