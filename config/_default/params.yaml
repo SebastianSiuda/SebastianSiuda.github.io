@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Sebastian Siuda. This work is licensed under {license}'
+    notice: '© {year} Sebastian Siuda. | <a href="/impressum/">Impressum</a>'
     license:
       enable: true
       allow_derivatives: false
