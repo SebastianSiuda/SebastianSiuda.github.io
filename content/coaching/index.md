@@ -8,15 +8,6 @@ show_date: false
 #  show: false
 ---
 
-<style>
-  .article-container {
-    max-width: 800px;
-    margin: auto;
-    font-size: 0.5rem;
-    line-height: 1.2;
-  }
-</style>
-
 
 <h1 style="text-align: center;">Coaching</h1>
 
@@ -25,7 +16,7 @@ Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situat
 
 ---
 
-<h2 style="text-align: center;">Wann ist Coaching sinnvoll?</h2>
+## Wann ist Coaching sinnvoll?
 
 Coaching bietet die Möglichkeit, berufliche und persönliche Herausforderungen strukturiert zu reflektieren und gezielt anzugehen.  
 Typische Coaching-Anliegen sind...
@@ -41,7 +32,7 @@ Gemeinsam entwickeln wir individuelle Lösungen – fundiert, klar und praxisnah
 
 ---
 
-<h2 style="text-align: center;">Mein Ansatz</h2>
+## Mein Ansatz
 
 Als promovierter Sozialpsychologe (Dr. rer. pol.) und mit der Heilpraktikererlaubnis für das Gebiet der Psychotherapie gemäß Heilpraktikergesetz (HeilprG) begleite ich Sie mit wissenschaftlich fundierter Expertise. Mein Schwerpunkt liegt im systemischen Coaching, das den Menschen stets im Kontext seines sozialen Umfelds betrachtet.
 
@@ -53,7 +44,7 @@ In einem geschützten und strukturierten Rahmen biete ich Ihnen die Möglichkeit
 
 ---
 
-<h2 style="text-align: center;">Kontaktaufnahme</h2>
+## Kontaktaufnahme
 
 Gerne bespreche ich in einem unverbindlichen Vorgespräch, wie ich Sie oder Ihr Unternehmen unterstützen kann. Ich freue mich, Sie kennenzulernen.
 
