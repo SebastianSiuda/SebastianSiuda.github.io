@@ -8,6 +8,14 @@ show_date: false
 #  show: false
 ---
 
+<style>
+  .article-style {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+</style>
+
+
 # Coaching
 
 

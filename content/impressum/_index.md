@@ -78,5 +78,3 @@ Bitte beachten Sie auch meine [Datenschutzerklärung](/datenschutz/).
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:  
 [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)  
 Ich bin weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
-
----
