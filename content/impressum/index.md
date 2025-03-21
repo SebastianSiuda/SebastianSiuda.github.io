@@ -8,6 +8,12 @@ show_breadcrumb: false
 show_date: false
 show_reading_time: false
 show_author: false
+hide_title: true
+hide_summary: true
+hide_taxonomies: true
+hide_readingtime: true
+hide_date: true
+hide_author: true
 ---
 
 # Impressum
