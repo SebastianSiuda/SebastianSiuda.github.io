@@ -5,7 +5,9 @@ type: page
 reading_time: false
 show_date: false
 design:
-  css_style: 'font-size: 3rem; line-height: 2.6;'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ['0', '0', '20px', '0']
 ---
 
 
