@@ -15,7 +15,7 @@ Der Schutz Ihrer persönlichen Daten ist mir ein wichtiges Anliegen. Die folgend
 Dr. rer. pol. Sebastian Siuda  
 Psychologe (M.Sc.)  
 Aurikelstr. 26  
-81377, München  
+81377 München  
 Deutschland  
 E-Mail: kontakt [at] sebastiansiuda [punkt] com  
 Website: [https://sebastiansiuda.com](https://sebastiansiuda.com)

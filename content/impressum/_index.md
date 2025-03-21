@@ -11,7 +11,7 @@ Angaben gemäß § 5 TMG:
 **Dr. rer. pol. Sebastian Siuda**  
 Psychologe (M.Sc.)  
 Aurikelstr. 26  
-81377, München  
+81377 München  
 Deutschland
 
 E-Mail: kontakt [at] sebastiansiuda [punkt] com  
@@ -40,7 +40,7 @@ Deutsche Gesellschaft für Psychologie (DGPs)
 **Dr. rer. pol. Sebastian Siuda**  
 Psychologe (M.Sc.)  
 Aurikelstr. 26  
-81377, München  
+81377 München  
 Deutschland
 
 ---
