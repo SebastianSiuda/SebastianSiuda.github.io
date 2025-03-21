@@ -1,5 +1,5 @@
 ---
-title: "Datenschutzerklärung"
+#title: "Datenschutzerklärung"
 #date: 2025-03-21
 type: page
 header:
