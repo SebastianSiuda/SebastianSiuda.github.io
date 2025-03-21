@@ -2,6 +2,7 @@
 title: "Coaching"
 date: 2025-03-21
 type: page
+reading_time: false
 header:
   show: false
 ---
