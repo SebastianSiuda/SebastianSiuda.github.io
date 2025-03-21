@@ -39,8 +39,13 @@ header:
 
 # Site footer
 footer:
+  links:
+    - name: "Impressum"
+      url: "/impressum/"
+    - name: "Datenschutz"
+      url: "/datenschutz/"
   copyright:
-    notice: '© {year} Sebastian Siuda. | <a href="/impressum/">Impressum</a>'
+    notice: '© {year} Sebastian Siuda.'
     license:
       enable: true
       allow_derivatives: false
