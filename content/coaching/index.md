@@ -16,7 +16,7 @@ Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situat
 ## Wann ist Coaching sinnvoll?
 
 Coaching bietet die Möglichkeit, berufliche und persönliche Herausforderungen strukturiert zu reflektieren und gezielt anzugehen.  
-Typische Coaching-Anliegen sind...
+Typische Coaching-Anliegen sind:
 
 - Berufliche Neuorientierung oder Karriereplanung
 - Vorbereitung auf Führungsrollen und Mitarbeiterführung
