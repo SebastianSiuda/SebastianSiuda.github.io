@@ -8,13 +8,14 @@ header:
 
 # Coaching
 
-Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situationen, in denen ein neutraler Blick von außen hilfreich sein kann. Vielleicht möchten Sie Ihre Führungskompetenzen stärken, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an: lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
+Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situationen, in denen ein neutraler Blick von außen hilfreich sein kann. Vielleicht möchten Sie Ihre Führungskompetenzen stärken, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an -  lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
 
 ---
 
 ## Wann ist Coaching sinnvoll?
 
-Coaching bietet die Möglichkeit, berufliche und persönliche Herausforderungen strukturiert zu reflektieren und gezielt anzugehen. Typische Coaching-Anliegen sind:
+Coaching bietet die Möglichkeit, berufliche und persönliche Herausforderungen strukturiert zu reflektieren und gezielt anzugehen.  
+Typische Coaching-Anliegen sind...
 
 - Berufliche Neuorientierung oder Karriereplanung
 - Vorbereitung auf Führungsrollen und Mitarbeiterführung
