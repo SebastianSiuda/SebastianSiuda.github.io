@@ -11,7 +11,7 @@ main:
   #  url: /
   #  weight: 10
   - name: Articles
-    url: /#papers
+    url: /#articles
     weight: 11
   #- name: Talks
   #  url: /#talks

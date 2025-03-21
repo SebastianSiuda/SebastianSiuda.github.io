@@ -50,7 +50,7 @@ sections:
   #  design:
   #    columns: '1'
   - block: collection
-    id: papers
+    id: articles
     content:
       title: Featured Articles
       filters:
