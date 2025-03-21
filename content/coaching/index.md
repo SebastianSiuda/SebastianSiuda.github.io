@@ -8,7 +8,7 @@ header:
 
 # Coaching
 
-Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situationen, in denen ein neutraler Blick von außen hilfreich sein kann. Vielleicht möchten Sie Ihre Führungskompetenzen stärken, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an -  lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
+Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situationen, in denen ein neutraler Blick von außen hilfreich sein kann. Vielleicht möchten Sie Ihre Führungskompetenzen stärken, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an: lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
 
 ---
 
@@ -30,7 +30,7 @@ Gemeinsam entwickeln wir individuelle Lösungen – fundiert, klar und praxisnah
 
 ## Mein Ansatz
 
-Als promovierter Sozialpsychologe (Dr. rer. pol.) und mit der Heilpraktikererlaubnis für Psychotherapie begleite ich Sie mit wissenschaftlich fundierter Expertise. Mein Schwerpunkt liegt im systemischen Coaching, das den Menschen stets im Kontext seines sozialen Umfelds betrachtet.
+Als promovierter Sozialpsychologe (Dr. rer. pol.) und mit der Heilpraktikererlaubnis für das Gebiet der Psychotherapie gemäß Heilpraktikergesetz (HeilprG) begleite ich Sie mit wissenschaftlich fundierter Expertise. Mein Schwerpunkt liegt im systemischen Coaching, das den Menschen stets im Kontext seines sozialen Umfelds betrachtet.
 
 Gemeinsam identifizieren wir Ihre Ressourcen, beleuchten relevante Zusammenhänge und entwickeln konkrete Strategien, um Ihre Entwicklung gezielt voranzubringen – beruflich wie persönlich.
 
@@ -44,4 +44,8 @@ In einem geschützten und strukturierten Rahmen biete ich Ihnen die Möglichkeit
 
 Gerne bespreche ich in einem unverbindlichen Vorgespräch, wie ich Sie oder Ihr Unternehmen unterstützen kann. Ich freue mich, Sie kennenzulernen.
 
-{{< button text="Jetzt Kontakt aufnehmen" url="mailto:coaching@sebastiansiuda.com" color="primary" >}}
+<p>
+  <a href="mailto:coaching@sebastiansiuda.com" class="btn btn-primary">
+    Jetzt Kontakt aufnehmen
+  </a>
+</p>
