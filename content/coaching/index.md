@@ -18,7 +18,7 @@ show_date: false
 </style>
 
 
-# Coaching
+<h1 style="text-align: center;">Coaching</h1>
 
 
 Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situationen, in denen ein neutraler Blick von außen hilfreich sein kann. Vielleicht möchten Sie Ihre Führungskompetenzen stärken, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an: lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
