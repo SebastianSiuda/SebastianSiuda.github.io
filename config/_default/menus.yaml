@@ -10,8 +10,8 @@ main:
   #- name: Bio
   #  url: /
   #  weight: 10
-  - name: Articles
-    url: /#articles
+  - name: Research
+    url: /#research
     weight: 11
   #- name: Talks
   #  url: /#talks

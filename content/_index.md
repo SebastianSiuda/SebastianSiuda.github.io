@@ -50,12 +50,12 @@ sections:
   #  design:
   #    columns: '1'
   - block: collection
-    id: articles
+    id: research
     content:
       title: Featured Articles
       filters:
         folders:
-          - articles
+          - research
         featured_only: true
     design:
       view: article-grid
