@@ -9,7 +9,7 @@ show_date: false
 ---
 
 <style>
-  .article-style {
+  body {
     font-size: 1rem;
     line-height: 1.6;
   }
