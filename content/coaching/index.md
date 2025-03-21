@@ -9,9 +9,9 @@ show_date: false
 ---
 
 <style>
-  body {
-    font-size: 0.5rem;
-    line-height: 1.2;
+  .article {
+    font-size: 1rem;
+    line-height: 1.6;
   }
 </style>
 
