@@ -12,8 +12,8 @@ show_date: false
   .article-container {
     max-width: 800px;
     margin: auto;
-    font-size: 1rem;
-    line-height: 1.6;
+    font-size: 0.5rem;
+    line-height: 1.2;
   }
 </style>
 
