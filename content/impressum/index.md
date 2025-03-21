@@ -2,6 +2,12 @@
 title: "Impressum"
 date: 2025-03-21
 type: page
+summary: ""
+show_page_heading: false
+show_breadcrumb: false
+show_date: false
+show_reading_time: false
+show_author: false
 ---
 
 # Impressum
@@ -38,9 +44,9 @@ Deutsche Gesellschaft für Psychologie (DGPs)
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 **Dr. rer. pol. Sebastian Siuda**  
-Psychologe (M.Sc.) 
+Psychologe (M.Sc.)  
 Aurikelstr. 26  
-81377, München
+81377, München  
 Deutschland
 
 ---
