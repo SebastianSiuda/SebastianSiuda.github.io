@@ -6,7 +6,7 @@ header:
   show: false
 ---
 
-# Impressum
+
 
 Angaben gemäß § 5 TMG:
 
