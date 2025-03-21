@@ -9,7 +9,9 @@ show_date: false
 ---
 
 <style>
-  .article {
+  .article-container {
+    max-width: 800px;
+    margin: auto;
     font-size: 1rem;
     line-height: 1.6;
   }
