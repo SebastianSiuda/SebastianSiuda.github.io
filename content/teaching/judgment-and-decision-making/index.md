@@ -11,7 +11,7 @@ image:
 ---
 
 Why do people often make decisions that seem irrational? Which cognitive biases influence our judgment - even when all relevant information is available?  
-This course, *Judgment and Decision-Making*, provides actionable insights into the psychological mechanisms and pitfalls of human decision-making—grounded in the latest findings from behavioral economics.
+This course, *Judgment and Decision-Making*, provides actionable insights into the psychological mechanisms and pitfalls of human decision-making - grounded in the latest findings from behavioral economics.
 
 ## Judgment and Decision-Making – How We Make Decisions in Our Daily Lives
 
