@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Image credit: [**Pexels**](https://www.pexels.com/de-de/foto/brille-auf-einem-aufgeschlagenen-buch-2908773/)'
   focal_point: ""
   preview_only: false
 
