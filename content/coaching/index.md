@@ -34,6 +34,7 @@ Gemeinsam entwickeln wir individuelle Lösungen – fundiert, klar und praxisnah
 </p>
 
 
+
 ## Mein Ansatz
 
 Als promovierter Sozialpsychologe (Dr. rer. pol.) und mit der Heilpraktikererlaubnis für das Gebiet der Psychotherapie gemäß Heilpraktikergesetz (HeilprG) begleite ich Sie mit wissenschaftlich fundierter Expertise. Mein Schwerpunkt liegt im systemischen Coaching, das den Menschen stets im Kontext seines sozialen Umfelds betrachtet.
