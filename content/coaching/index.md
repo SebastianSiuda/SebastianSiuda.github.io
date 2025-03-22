@@ -5,7 +5,7 @@ type: page
 reading_time: false
 show_date: false
 banner:
-  image: 'header.png'
+  image: 'header.jpg'
   caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
 ---
 
