@@ -4,9 +4,6 @@
 type: page
 reading_time: false
 show_date: false
-banner:
-  image: 'header.png'
-  caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
 ---
 
 <h1 style="text-align: center;">Coaching</h1>
