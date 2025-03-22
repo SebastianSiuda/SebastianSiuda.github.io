@@ -5,7 +5,9 @@ type: page
 reading_time: false
 show_date: false
 ---
-
+<p style="text-align: center;">
+  <img src="/media/coaching.jpg" alt="Coaching" style="max-width: 100%; height: auto; border-radius: 8px;">
+</p>
 <h1 style="text-align: center;">Coaching</h1>
 
 
@@ -30,7 +32,7 @@ Gemeinsam entwickeln wir individuelle Lösungen – fundiert, klar und praxisnah
 ---
 
 <p style="text-align: center;">
-  <img src="/media/coaching.jpg" alt="Coaching" style="max-width: 600px; border-radius: 8px;">
+  <img src="/media/coaching-ansatz.jpg" alt="Coachingansatz" style="max-width: 100%; height: auto; border-radius: 8px;">
 </p>
 
 
