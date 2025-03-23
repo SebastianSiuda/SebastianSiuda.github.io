@@ -15,14 +15,6 @@ de:
   title: Sebastian Siuda
   params:
     description: Psychologisches Coaching & Beratung von Dr. Sebastian Siuda: systemische Methoden, wissenschaftlich fundiert, individuell auf Ihre Ziele abgestimmt.
-    footer:
-      copyright:
-        notice: '© {year} Sebastian Siuda | <a href="/impressum/">ImpressumDETEST</a> | <a href="/datenschutz/">Datenschutz</a>'
-        license:
-          enable: true
-          allow_derivatives: false
-          share_alike: true
-          allow_commercial: false
   menu:
     main:
       - name: "Über mich"
