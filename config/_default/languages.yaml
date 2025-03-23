@@ -24,7 +24,7 @@ de:
         url: /#forschung
         weight: 11
       - name: Lehre
-        url: lehre/
+        url: teaching/
         weight: 40
       - name: Coaching
         url: coaching/
