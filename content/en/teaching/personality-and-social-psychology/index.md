@@ -9,7 +9,9 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-
+<p style="text-align: center;">
+  <img src="/media/teaching-psp.jpg" alt="Personality and Social Psychology" style="max-width: 100%; height: auto; border-radius: 8px;">
+</p>
 How can we better understand human behavior - and leverage this knowledge to strengthen teams, develop leadership skills, or shape social dynamics constructively?  
 The course *Personality and Social Psychology* delivers well-founded psychological knowledge, applicable both in academic settings and corporate environments.
 

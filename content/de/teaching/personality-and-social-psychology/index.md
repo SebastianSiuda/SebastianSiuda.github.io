@@ -9,7 +9,9 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-
+<p style="text-align: center;">
+  <img src="/media/teaching-psp.jpg" alt="Persönlichkeits- und Sozialpsychologie" style="max-width: 100%; height: auto; border-radius: 8px;">
+</p>
 Wie können wir menschliches Verhalten besser verstehen – und gezielt nutzen, um Teams zu stärken, Führungskompetenzen auszubauen oder soziale Dynamiken konstruktiv zu gestalten? Der Kurs _Persönlichkeits- und Sozialpsychologie_ vermittelt fundiertes psychologisches Wissen, das direkt im Hochschulkontext sowie im Unternehmensumfeld anwendbar ist.
 
 

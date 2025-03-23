@@ -9,7 +9,9 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-
+<p style="text-align: center;">
+  <img src="/media/teaching-jdm.jpg" alt="Judgment and Decision-Making" style="max-width: 100%; height: auto; border-radius: 8px;">
+</p>
 Why do people often make decisions that seem irrational? Which cognitive biases influence our judgment - even when all relevant information is available?  
 This course, *Judgment and Decision-Making*, provides actionable insights into the psychological mechanisms and pitfalls of human decision-making - grounded in the latest findings from behavioral economics.
 
