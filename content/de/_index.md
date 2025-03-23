@@ -50,12 +50,12 @@ sections:
   #  design:
   #    columns: '1'
   - block: collection
-    id: research
+    id: forschung
     content:
-      title: Featured Articles
+      title: Artikel im Fokus
       filters:
         folders:
-          - research
+          - forschung
         featured_only: true
     design:
       view: article-grid
