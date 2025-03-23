@@ -44,7 +44,7 @@ profiles:
 
 interests:
   - Verhaltensökonomie
-  - Zwischenmenschliches Vertrauen
+  - Vertrauensforschung
   - Personenwahrnehmung
   - Evolutionäre Psychologie
 
