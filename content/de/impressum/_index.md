@@ -22,7 +22,7 @@ Website: [https://sebastiansiuda.com/](https://sebastiansiuda.com/)
 ## Umsatzsteuer-ID:
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:  
-[Hier USt-ID eintragen, falls vorhanden.]
+[USt-ID folgt sobald sie vom Finanzamt mitgeteilt wird.]
 
 ---
 
