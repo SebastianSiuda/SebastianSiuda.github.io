@@ -2,23 +2,30 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
-#en:
-de:
-  #languageCode: en-us
-  languageCode: de
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+#Default language
+en:
+  languageCode: en-us
+  #Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+#Uncomment the lines below to configure your website in a second language.
+de:
+  languageCode: de
+  contentDir: content/de
+  title: Sebastian Siuda
+  params:
+    description: Psychological coaching & consulting by Dr. Sebastian Siuda - systemically grounded, evidence-based, tailored to your goals.
+  menu:
+    main:
+      - name: "Über mich"
+        url: /
+        weight: 10
+      - name: Forschung
+        url: /#forschung
+        weight: 11
+      - name: Lehre
+        url: lehre/
+        weight: 40
+      - name: Coaching
+        url: coaching/
+        weight: 50
