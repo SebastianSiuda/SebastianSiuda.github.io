@@ -62,7 +62,7 @@ Downloads and copies of this site are permitted for private, non-commercial use 
 
 ## Data Protection:
 
-Please also refer to my [Privacy Policy](/privacy/).
+Please also refer to my [Privacy Policy](/datenschutz/).
 
 ---
 
