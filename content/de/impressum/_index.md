@@ -69,7 +69,7 @@ Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerzielle
 
 ## Datenschutz:
 
-Bitte beachten Sie auch meine [Datenschutzerklärung](/datenschutz/).
+Bitte beachten Sie auch meine [Datenschutzerklärung](/de/datenschutz/).
 
 ---
 
