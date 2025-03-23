@@ -14,7 +14,7 @@ sections:
     id: teaching
     content:
       title: Lehre
-      text: <div style="text-align:center;">Ich biete Kurse in verschiedenen Bereichen der Psychologie an. Mein Ziel ist es, psychologische Theorien verständlich, praxisnah und spannend zu vermitteln. Alle Kurse werden von mir konzipiert und durchgeführt und lassen sich individuell an Ihre Hochschule oder Organisation anpassen</strong>. <br><br> <p> <p> <a href="mailto:teaching@sebastiansiuda.com" style="font-weight:bold; color:#0a0a23; text-decoration:underline; text-decoration-color:#5DE4AF; text-underline-offset:4px; transition:all 0.3s ease;" onmouseover="this.style.textDecoration='none'; this.style.color='#049668';" onmouseout="this.style.textDecoration='underline'; this.style.color='#0a0a23'; this.style.textDecorationColor='#5DE4AF';">Jetzt Kontakt aufnehmen</a> </p> </div>
+      text: <div style="text-align:center;">Ich biete Kurse in verschiedenen Bereichen der Psychologie an. Mein Ziel ist es, psychologische Theorien <strong>verständlich, praxisnah und spannend</strong> zu vermitteln. Alle Kurse lassen sich dabei <strong>individuell an Ihre Hochschule oder Organisation anpassen</strong>. <br><br> <p> <p> <a href="mailto:teaching@sebastiansiuda.com" style="font-weight:bold; color:#0a0a23; text-decoration:underline; text-decoration-color:#5DE4AF; text-underline-offset:4px; transition:all 0.3s ease;" onmouseover="this.style.textDecoration='none'; this.style.color='#049668';" onmouseout="this.style.textDecoration='underline'; this.style.color='#0a0a23'; this.style.textDecorationColor='#5DE4AF';">Jetzt Kontakt aufnehmen</a> </p> </div>
       filters:
         folders:
           - teaching
