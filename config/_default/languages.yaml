@@ -3,7 +3,8 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
+#en:
+de:
   #languageCode: en-us
   languageCode: de
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
