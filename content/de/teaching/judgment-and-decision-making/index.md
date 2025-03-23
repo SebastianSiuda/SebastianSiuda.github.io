@@ -13,7 +13,7 @@ image:
   <img src="/media/teaching-jdm.jpg" alt="Entscheidungspsychologie" style="max-width: 100%; height: auto; border-radius: 8px;">
 </p>
 
-Warum treffen Menschen oft irrational scheinende Entscheidungen? Welche kognitiven Verzerrungen beeinflussen unser Urteilsvermögen – selbst dann, wenn alle Informationen vorliegen? Unser Kurs *Entscheidungspsychologie: Urteilen und Entscheiden* liefert praxisrelevante Einblicke in die psychologischen Mechanismen und Fallstricke menschlicher Entscheidungsprozesse – basierend auf den neuesten Erkenntnissen der Verhaltensökonomik.
+Warum treffen Menschen oft irrational scheinende Entscheidungen? Welche kognitiven Verzerrungen beeinflussen unser Urteilsvermögen – selbst dann, wenn alle Informationen vorliegen? Der Kurs *Entscheidungspsychologie: Urteilen und Entscheiden* liefert praxisrelevante Einblicke in die psychologischen Mechanismen und Fallstricke menschlicher Entscheidungsprozesse – basierend auf den neuesten Erkenntnissen der Verhaltensökonomik.
 
 
 ## Entscheidungspsychologie – Wie wir urteilen und entscheiden
