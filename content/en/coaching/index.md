@@ -8,53 +8,51 @@ show_date: false
 <p style="text-align: center;">
   <img src="/media/coaching.jpg" alt="Coaching" style="max-width: 100%; height: auto; border-radius: 8px;">
 </p>
+
 <h1 style="text-align: center;">Coaching</h1>
 
-
-Ob im Berufsleben oder im privaten Umfeld – immer wieder stehen wir vor Situationen, in denen ein neutraler Blick von außen hilfreich sein kann. Vielleicht möchten Sie Ihre Führungskompetenzen stärken, Entscheidungen reflektieren, Teamdynamiken besser verstehen oder persönliche Ziele neu ausrichten. Genau hier setzt mein Coaching an: lösungsorientiert, wertschätzend und individuell auf Ihre Fragestellungen abgestimmt.
+In both professional and personal contexts, we often face situations where an outside perspective can be helpful. You might want to strengthen your leadership skills, reflect on key decisions, better understand team dynamics, or realign personal goals. This is where my coaching comes in: solution-oriented, respectful, and tailored to your individual questions.
 
 ---
 
-## Wann ist Coaching sinnvoll?
+## When is coaching helpful?
 
-Coaching bietet die Möglichkeit, berufliche und persönliche Herausforderungen strukturiert zu reflektieren und gezielt anzugehen.  
-Typische Coaching-Anliegen sind:
+Coaching provides the opportunity to reflect on professional and personal challenges in a structured way and actively address them.  
+Common coaching topics include:
 
-- Berufliche Neuorientierung oder Karriereplanung
-- Vorbereitung auf Führungsrollen und Mitarbeiterführung
-- Stressmanagement & Burn-out-Prävention
-- Konflikte im Arbeitsumfeld oder Privatleben
-- Stärkung von Selbstsicherheit (z. B. bei Präsentationen)
-- Verbesserung von Work-Life-Balance und Zeitmanagement
+- Career transitions or planning
+- Preparing for leadership roles and people management
+- Stress management & burnout prevention
+- Conflict resolution at work or in personal life
+- Building self-confidence (e.g., for presentations)
+- Improving work-life balance and time management
 
-Gemeinsam entwickeln wir individuelle Lösungen – fundiert, klar und praxisnah.
+Together, we develop customized solutions - clear, practical, and grounded.
 
 ---
 
 <p style="text-align: center;">
-  <img src="/media/coaching-ansatz.jpg" alt="Coachingansatz" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="/media/coaching-ansatz.jpg" alt="Coaching Approach" style="max-width: 100%; height: auto; border-radius: 8px;">
 </p>
 
+## My approach
 
+With a doctorate in social psychology (Dr. rer. pol.) and licensure in psychotherapy under the German Heilpraktikergesetz (HeilprG), I bring a strong academic foundation combined with practical coaching expertise. My approach is grounded in systemic coaching, focusing on the individual while always considering the broader social and interpersonal contexts that shape behavior and decision-making.
 
-## Mein Ansatz
+Together, we identify your resources, explore relevant patterns, and develop concrete strategies to advance your personal or professional growth.
 
-Als promovierter Sozialpsychologe (Dr. rer. pol.) und mit der Heilpraktikererlaubnis für das Gebiet der Psychotherapie gemäß Heilpraktikergesetz (HeilprG) begleite ich Sie mit wissenschaftlich fundierter Expertise. Mein Schwerpunkt liegt im systemischen Coaching, das den Menschen stets im Kontext seines sozialen Umfelds betrachtet.
+My coaching is designed for professionals, leaders, and private individuals alike. Topics may include career decisions, leadership and team development, communication, conflict resolution, or personal potential. I also support organizations in strengthening their employees through targeted one-on-one coaching and guiding them through change processes.
 
-Gemeinsam identifizieren wir Ihre Ressourcen, beleuchten relevante Zusammenhänge und entwickeln konkrete Strategien, um Ihre Entwicklung gezielt voranzubringen – beruflich wie persönlich.
-
-Mein Coaching richtet sich an Fach- und Führungskräfte ebenso wie an Privatpersonen. Mögliche Themen sind Karriereentscheidungen, Team- und Führungsthemen, Kommunikation, Konfliktlösung oder persönliche Potenziale. Organisationen unterstütze ich außerdem dabei, Mitarbeitende durch gezielte Einzelcoachings zu stärken und Veränderungsprozesse konstruktiv zu begleiten.
-
-In einem geschützten und strukturierten Rahmen biete ich Ihnen die Möglichkeit, Perspektiven zu erweitern, Denk- und Handlungsmuster zu reflektieren und konkrete nächste Schritte zu erarbeiten. Dabei profitieren Sie von einer Verbindung aus psychologischer Fachkenntnis, Praxiserfahrung und einem klaren, lösungsorientierten Blick.
+In a structured and confidential setting, I help you reflect on thought and behavior patterns, expand your perspective, and develop concrete next steps - combining psychological expertise, practical experience, and a clear, solution-focused approach.
 
 ---
 
-## Kontaktaufnahme
+## Get in touch
 
-Gerne bespreche ich in einem unverbindlichen Vorgespräch, wie ich Sie oder Ihr Unternehmen unterstützen kann. Ich freue mich, Sie kennenzulernen.
+I’m happy to discuss in a non-binding conversation how I can support you or your organization. I look forward to connecting!
 
 <p>
   <a href="mailto:coaching@sebastiansiuda.com" class="btn btn-primary">
-    Jetzt Kontakt aufnehmen
+    Get in touch now
   </a>
 </p>

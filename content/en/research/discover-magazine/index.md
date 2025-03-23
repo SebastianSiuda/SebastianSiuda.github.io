@@ -20,7 +20,7 @@ publication_types: ['news-article']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Discover Magazine*
-publication_short: In *ICW*
+publication_short: In *Discover Magazine*
 
 abstract: Researchers have long puzzled over how to determine if someone is trustworthy. Find out how their work can provide helpful hints to the rest of us.
 

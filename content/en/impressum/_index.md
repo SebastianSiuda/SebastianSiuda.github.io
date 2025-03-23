@@ -1,80 +1,73 @@
 ---
-title: "Impressum"
+title: "Legal Notice"
 date: 2025-03-21
 type: page
 header:
   show: false
 ---
 
-Angaben gemäß § 5 TMG:
+## Information according to § 5 TMG:
 
 **Dr. rer. pol. Sebastian Siuda**  
-Psychologe (M.Sc.)  
+Psychologist (M.Sc.)  
 Aurikelstr. 26  
-81377 München  
-Deutschland
+81377 Munich  
+Germany
 
-E-Mail: kontakt [at] sebastiansiuda [punkt] com  
-Website: [https://sebastiansiuda.com/](https://sebastiansiuda.com/)
-
----
-
-## Umsatzsteuer-ID:
-
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:  
-[Hier USt-ID eintragen, falls vorhanden.]
+Email: kontakt [at] sebastiansiuda [dot] com  
+Website: [https://sebastiansiuda.com](https://sebastiansiuda.com)
 
 ---
 
-## Berufliche Angaben:
+## Professional Information:
 
-Erlaubnis zur Ausübung der Heilkunde beschränkt auf dem Gebiet der Psychotherapie gemäß Heilpraktikergesetz (HeilprG), erteilt durch das Gesundheitsamt München.
+Licensed to practice psychotherapy under the German Heilpraktikergesetz (HeilprG), issued by the Munich Health Department.
 
-Mitgliedschaften:  
-Deutsche Gesellschaft für Psychologie (DGPs)
+Memberships:  
+German Psychological Society (DGPs)
 
 ---
 
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+## Responsible for content according to § 55 Abs. 2 RStV:
 
 **Dr. rer. pol. Sebastian Siuda**  
-Psychologe (M.Sc.)  
+Psychologist (M.Sc.)  
 Aurikelstr. 26  
-81377 München  
-Deutschland
+81377 Munich  
+Germany
 
 ---
 
-## Haftungsausschluss:
+## Disclaimer:
 
-### Haftung für Inhalte
+### Liability for Content
 
-Als Diensteanbieter bin ich gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+As a service provider, I am responsible for my own content on these pages in accordance with general legislation (§ 7 Abs. 1 TMG). However, according to §§ 8 to 10 TMG, I am not obligated to monitor transmitted or stored third-party information or investigate circumstances that indicate illegal activity.
 
-Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.
+Obligations to remove or block the use of information under general law remain unaffected. Liability is only possible from the time of knowledge of a specific legal violation. Upon becoming aware of such violations, I will remove the content immediately.
 
-### Haftung für Links
+### Liability for Links
 
-Meine Webseite enthält ggf. Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.
-
----
-
-## Urheberrecht:
-
-Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
-
-Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+My website may contain links to external third-party websites. I have no influence over the content of those websites and cannot assume liability for them. The respective provider or operator of the linked websites is always responsible for their content. Permanent monitoring of linked pages without concrete evidence of legal violations is unreasonable. Upon becoming aware of legal violations, I will remove such links immediately.
 
 ---
 
-## Datenschutz:
+## Copyright:
 
-Bitte beachten Sie auch meine [Datenschutzerklärung](/datenschutz/).
+Content and works created by the site operator on these pages are subject to German copyright law. Third-party content is marked as such. Reproduction, processing, distribution, or any form of commercialization beyond the limits of copyright law requires the written consent of the respective author.
+
+Downloads and copies of this site are permitted for private, non-commercial use only.
 
 ---
 
-## Online-Streitbeilegung:
+## Data Protection:
 
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:  
+Please also refer to my [Privacy Policy](/privacy/).
+
+---
+
+## Online Dispute Resolution:
+
+The European Commission provides a platform for online dispute resolution (ODR):  
 [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)  
-Ich bin weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+I am neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board.
