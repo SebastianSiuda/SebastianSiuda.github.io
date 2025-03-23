@@ -43,7 +43,7 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Verhaltensökonomie (Behavioral Economics)
+  - Verhaltensökonomie
   - Zwischenmenschliches Vertrauen
   - Personenwahrnehmung
   - Evolutionäre Psychologie
@@ -59,7 +59,7 @@ education:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
   - area: M.Sc. in Psychologie, 2017
-    institution: Julius-Maximilians-Universität Würzburg
+    institution: Universität Würzburg
     date_start: 2014-04-01
     date_end: 2017-07-07
     #summary: |
@@ -70,7 +70,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Sc. in Psychologie, 2014
-    institution: Julius-Maximilians-Universität Würzburg
+    institution: Universität Würzburg
     date_start: 2010-10-01
     date_end: 2014-03-31
     #summary: |
